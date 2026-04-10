@@ -42,6 +42,8 @@ local asciiArt = [[
                  .  .                   .       .                         
           .                    .           ..                   .  .   .  
 
+
+                          [LarpWare Loaded]
 ]]
 
 print(asciiArt)
